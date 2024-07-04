@@ -1,0 +1,144 @@
+.flag-bahamas{
+    height: 300px;
+    width: 600px;
+    background-color: rgb(32, 209, 228);
+    border: solid;
+    border-color: darkgray;
+    position: relative;
+}
+.flag-bahamas div{
+    height: 33.33%;
+    width: 600px;
+    background-color: rgb(254, 229, 3) ;
+    position: absolute;
+    top: 33.33%;
+}
+
+
+
+.flag-palau{
+    height: 300px;
+    width: 600px;
+    background-color:rgb(55, 197, 249);
+    position: relative;
+}   
+
+.flag-palau div{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: yellow;
+    position: absolute;
+    top: 50px;
+    left: 200px;
+}   
+
+.flag-palau p{
+    font-size: 40px;
+    margin: 0%;
+    text-align: center;
+    position: relative;
+    top: 35%;
+}
+
+
+
+.flag-japan{
+    height: 300px;
+    width: 600px;
+    background-color: white;
+    position: relative;
+    border: solid;
+    border-color: black;
+}
+.flag-japan div{
+    height: 175px;
+    width: 175px;
+    border-radius: 50%;
+    background-color: firebrick;
+    position: absolute;
+    top: 62.5px;
+    left: 212.5px;
+}
+.flag-japan p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 45px;
+    text-align: center;
+    position: relative;
+    top: 10%;
+}
+
+.flag-latvia{
+    height: 300px;
+    width: 600px;
+    background-color:firebrick;
+    position: relative;
+}
+
+.flag-latvia div{
+    height: 60px;
+    width: 100%;
+    background-color: white;
+    position: absolute;
+    top: 120px;
+}
+
+.flag-latvia p{
+    font-size: 3rem;
+    text-align: center;
+    position: relative;
+    bottom: 70%;
+}
+
+
+.flag-nigeria{
+    height: 300px;
+    width: 600px;
+    background-color: rgb(58, 168, 58);
+    position: relative;
+}
+.flag-nigeria div{
+     height: 100%;
+     width: 33.333%;
+     background-color: white;
+    position: absolute;
+    left: 33.333%;
+}
+.flag-nigeria p{
+    font-size: 3rem;
+    text-align: center;
+    position: relative;
+    top: 125px;
+    margin: 0%;
+}
+
+.flag-SWITZERLAND{
+    height: 500px;
+    width: 500px;
+    background-color: red;
+    border: solid;
+    border-color: darkgray;
+    position: relative;
+}
+
+.flag-SWITZERLAND div{
+     height: 300px;
+     width: 100px;
+     background-color: white;
+     position: absolute;
+     left: 200px;
+     top: 100px;
+    }
+
+.flag-SWITZERLAND >div >div{
+    height: 100px;
+    width: 300px;
+    background-color: white ;
+    position: absolute;
+    left: -100px;    
+}
+.flag-SWITZERLAND p{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 2rem;
+}
